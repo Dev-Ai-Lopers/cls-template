@@ -1,0 +1,7 @@
+dataset:
+  type: ImageFolderDataset
+  params:
+    root_dir: false
+
+transforms:
+  type: ToTensor

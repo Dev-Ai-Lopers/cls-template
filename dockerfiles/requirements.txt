@@ -4,3 +4,4 @@ torchvision==0.15.1+cu117
 hydra-core
 pytorch-lightning
 git+https://github.com/Dev-Ai-Lopers/DL-Utils@main
+kornia
